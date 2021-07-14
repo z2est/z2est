@@ -3,7 +3,7 @@
 :thumbsup: Backend Developer
 
 :email: Email : namegpark@gmail.com  
-:zap: Social : https://www.rocketpunch.com/namegpark  
+:zap: Social : https://www.rocketpunch.com/@namegpark  
 
 ![Chris Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2est&show_icons=true&theme=tokyonight)
 
