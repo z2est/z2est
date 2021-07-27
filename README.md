@@ -1,6 +1,6 @@
 ### Chris Park (durx4)
 
-:thumbsup: Backend Developer
+:thumbsup: Backend Engineer Dreaming of a Full Stack Engineer
 
 :email: Email : namegpark@gmail.com  
 :zap: Social : https://www.rocketpunch.com/@namegpark  
