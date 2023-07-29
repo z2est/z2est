@@ -5,8 +5,7 @@
 :email: Email : namegpark@gmail.com  
 :zap: Social : https://www.rocketpunch.com/@namegpark  
 
-![Chris Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2est&show_icons=true&theme=tokyonight)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![Chris Github Stats](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Use Skills
 
