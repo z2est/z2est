@@ -3,6 +3,8 @@
 
 :thumbsup: Backend Engineer Dreaming of a Full Stack Engineer
 
+![Z2est-Stat](https://github-readme-streak-stats.herokuapp.com/?user=z2est)
+
 :email: Email : namegpark@gmail.com  
 :zap: Social : https://www.rocketpunch.com/@namegpark  
 
